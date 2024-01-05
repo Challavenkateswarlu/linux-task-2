@@ -1,0 +1,24 @@
+1)mkdir -to create the directory
+2)cd -switch directory
+3)cd ..-to switch back to previous directory
+4)touch-to create the files
+5)pwd-path of present directory
+6)ls-list the files & directorys
+7)rmdir-to delete the empty directory
+8)rm - to delete the files
+9)cat-to see the content in files
+10)echo-to print
+11)man-munual of commands
+12)whoami-who is the user of file
+13)history-to see the history of commands
+14)rm -r directoryname-to delete file&directory also at a time
+15)vi filename-to edit the file
+16)nano filename-to edit the file
+17)~-tilde(user directory)
+18)mkdir name
+mkdir dir1,dir2,dir3
+mkdir -p dir/subdir/subdir2
+19)
+ls
+ls -l(with permissions)
+ls -a(to see the hidden files)

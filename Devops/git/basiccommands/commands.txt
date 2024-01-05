@@ -1,0 +1,33 @@
+git init
+git config user.name "username"
+git config user.email "email"
+git config --edit
+git add ./--all/-A
+git add *.ext
+git commit -m "message"
+git commit fname -m "meaasge"
+git remote add origin url
+git remote -v
+git remote rm origin
+git rm --cached fname
+git branch branchname
+git checkout -b branchname
+git switch bname
+git merge bname
+git branch -d branchname
+git branch -D branch name
+git branch --list
+git rebase branch 
+git push origin master
+git clone url/branch
+git checkout fname
+git checkout .
+git status
+git log/--oneline/-number/filename
+git reflog
+git fetch url
+git pull url
+git reset filename
+git reset --soft
+git reser --hard
+git diff b1 b2

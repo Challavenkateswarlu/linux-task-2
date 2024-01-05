@@ -1,0 +1,8 @@
+move
+ 1)absolute-mv filename directorypath
+ 2)relative-mv filename directoryname
+ 3)combined-mv filepath directory,mv file directorypath
+copy
+ 1)cp filename directory
+rename
+ 1)mv oldfilename newfilename
